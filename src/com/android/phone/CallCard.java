@@ -1214,6 +1214,7 @@ public class CallCard extends LinearLayout
         mPhotoTracker.setPhotoState(ContactsAsyncHelper.ImageTracker.DISPLAY_IMAGE);
 
         // The actual strings we're going to display onscreen:
+        boolean displayNameIsNumber = false;
         String displayName;
         String displayNumber = null;
         String label = null;
