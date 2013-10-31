@@ -671,4 +671,10 @@
     <string name="national_roaming_enable">国内漫游时连接到互联网</string>
     <!-- Mobile network settings screen, setting summary text when check box is clear -->
     <string name="national_roaming_disable">国内漫游时连接到互联网</string>
+
+
+    <!-- Incoming call in background -->
+    <string name="bg_incall">来电后台显示</string>
+    <string name="bg_incall_summary">屏幕开启时，有来电时不显示来电界面，仅在通知栏显示通知并播放铃声</string>
+ 
 </resources>
